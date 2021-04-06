@@ -1,0 +1,10 @@
+
+1. Centrer les contenus;
+2. Mettre les éléments 2 par ligne;
+3. Le contenu est mal positionné!
+4. Remettre de l'ordre à ce niveau;
+5. Le bouton "Subscribe" doit être sur la même ligne que l'input.
+
+
+PLUS
+Ajoute une touche personnelle à ta page sans toutefois perdre son design.
